@@ -5,7 +5,7 @@ public class Milk : Product
     public double FatRate;
     public void TotalVolume(int Count, int Volume,double FatRate)
     {
-        Console.WriteLine($"Yag faizi {FatRate} olan mehsuldan {Volume *= Count} dene satilmishdir.");
+        Console.WriteLine($"Yag faizi {FatRate} olan mehsuldan {Volume *= Count} litr satilmishdir.");
     }
 }
 
