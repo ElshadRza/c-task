@@ -1,5 +1,5 @@
 ﻿Product Milka = new();
-Milka.Name = "    ";
+Milka.Name = "";
 
 Milk LowMilk= new();
 //LowMilk.Sell(Say,Qiymet);
