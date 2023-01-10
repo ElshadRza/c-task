@@ -1,0 +1,30 @@
+C:\Users\Samir\Desktop\C# tasks\Console project\bin\Debug\net6.0\Console project.exe
+C:\Users\Samir\Desktop\C# tasks\Console project\bin\Debug\net6.0\Console project.deps.json
+C:\Users\Samir\Desktop\C# tasks\Console project\bin\Debug\net6.0\Console project.runtimeconfig.json
+C:\Users\Samir\Desktop\C# tasks\Console project\bin\Debug\net6.0\Console project.dll
+C:\Users\Samir\Desktop\C# tasks\Console project\bin\Debug\net6.0\Console project.pdb
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.csproj.AssemblyReference.cache
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.AssemblyInfoInputs.cache
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.AssemblyInfo.cs
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.dll
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\refint\Console project.dll
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.pdb
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\Console project.genruntimeconfig.cache
+C:\Users\Samir\Desktop\C# tasks\Console project\obj\Debug\net6.0\ref\Console project.dll
+C:\Users\Owner\Desktop\Console\bin\Debug\net6.0\Console project.exe
+C:\Users\Owner\Desktop\Console\bin\Debug\net6.0\Console project.deps.json
+C:\Users\Owner\Desktop\Console\bin\Debug\net6.0\Console project.runtimeconfig.json
+C:\Users\Owner\Desktop\Console\bin\Debug\net6.0\Console project.dll
+C:\Users\Owner\Desktop\Console\bin\Debug\net6.0\Console project.pdb
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.dll
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\refint\Console project.dll
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.pdb
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\Console project.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Console\obj\Debug\net6.0\ref\Console project.dll
